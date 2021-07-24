@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @igoswamik
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning node.js ,express.js and mongodb
-- 💞️ I’m looking to collaborate on a full-stack project through which I can sharp my existing skills and learn some other valuable skills.
+- 👀 I’m interested in software development
+- 🌱 I’m currently working on a MERN stack project.
 - 📫 How to reach me -linkedIn(https://www.linkedin.com/in/kg457/).
 
 <!---
