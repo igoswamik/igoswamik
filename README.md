@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @igoswamik
+- 👋 Hi, I’m Kulbhushan Goswami, final year B.Tech student at IIT Guwahati.
 - 👀 I’m interested in software development
-- 🌱 I’m currently working on a MERN stack project.
+- 🌱 My preferred programming language is C/C++, Javascript.
 - 📫 How to reach me -linkedIn(https://www.linkedin.com/in/kg457/).
-
 <!---
 igoswamik/igoswamik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
